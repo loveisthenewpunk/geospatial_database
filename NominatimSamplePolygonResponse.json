@@ -1,0 +1,199 @@
+{
+  "polygon": {
+    "exterior": [
+      40.078811,
+      -76.730422,
+      41.078811,
+      -74.730422,
+      40.078811,
+      -74.730422,
+      39.961879,
+      -76.730422,
+      39.961879,
+      -76.730422,
+      40.078811,
+      -76.730422
+    ]
+  },
+  "searchResults": [
+    {
+      "resultNumber": 1,
+      "distance": 0,
+      "sourceName": "mqap.ntpois",
+      "name": "Dr. David D'Angelo & Dr. Renee D'Angelo",
+      "shapePoints": [
+        40.322799,
+        -75.061206
+      ],
+      "distanceUnit": "m",
+      "key": "ea52556d-9456-47aa-bca6-cecff9d3f019",
+      "fields": {
+        "phone": "2158626363",
+        "side_of_street": "L",
+        "group_sic_code": "809907",
+        "state": "PA",
+        "lng": -75.061206,
+        "group_sic_code_name": "Health Services",
+        "city": "Buckingham",
+        "country": "US",
+        "group_sic_code_name_ext": "Health Services::Alternative Medicine",
+        "id": "290451916",
+        "mqap_geography": {
+          "latLng": {
+            "lng": -75.061206,
+            "lat": 40.322799
+          }
+        },
+        "address": "4814 York Rd",
+        "postal_code": "18912",
+        "name": "Dr. David D'Angelo & Dr. Renee D'Angelo",
+        "mqap_id": "ea52556d-9456-47aa-bca6-cecff9d3f019",
+        "group_sic_code_ext": "809907::804946",
+        "disp_lat": 40.322579,
+        "lat": 40.322799,
+        "disp_lng": -75.060845
+      }
+    },
+    {
+      "resultNumber": 2,
+      "distance": 0,
+      "sourceName": "mqap.ntpois",
+      "name": "Anderson Tax & Bookkeeping Service",
+      "shapePoints": [
+        39.974323,
+        -76.678675
+      ],
+      "distanceUnit": "m",
+      "key": "1589d52b-a514-4ec0-a34e-75c08dc98a0d",
+      "fields": {
+        "phone": "7176599732",
+        "side_of_street": "R",
+        "group_sic_code": "872101",
+        "state": "PA",
+        "lng": -76.678675,
+        "group_sic_code_name": "Accountants",
+        "city": "York",
+        "country": "US",
+        "group_sic_code_name_ext": "Accountants::Accounting & Bookkeeping General Svc",
+        "id": "273492680",
+        "mqap_geography": {
+          "latLng": {
+            "lng": -76.678675,
+            "lat": 39.974323
+          }
+        },
+        "address": "2460 E Market St",
+        "postal_code": "17402",
+        "name": "Anderson Tax & Bookkeeping Service",
+        "mqap_id": "1589d52b-a514-4ec0-a34e-75c08dc98a0d",
+        "group_sic_code_ext": "872101::872102",
+        "disp_lat": 39.974323,
+        "lat": 39.974323,
+        "disp_lng": -76.678675
+      }
+    },
+    {
+      "resultNumber": 3,
+      "distance": 0,
+      "sourceName": "mqap.ntpois",
+      "name": "D S C Logistics",
+      "shapePoints": [
+        40.567149,
+        -75.622408
+      ],
+      "distanceUnit": "m",
+      "key": "998badfd-3ba4-4a14-9bfc-fe5f4bd7ac5b",
+      "fields": {
+        "phone": "4846647059",
+        "side_of_street": "L",
+        "group_sic_code": "874201",
+        "state": "PA",
+        "lng": -75.622408,
+        "group_sic_code_name": "Business Management Consultants",
+        "city": "Breinigsville",
+        "country": "US",
+        "group_sic_code_name_ext": "Business Management Consultants",
+        "id": "42068783",
+        "mqap_geography": {
+          "latLng": {
+            "lng": -75.622408,
+            "lat": 40.567149
+          }
+        },
+        "address": "250 Boulder Dr",
+        "postal_code": "18031",
+        "name": "D S C Logistics",
+        "mqap_id": "998badfd-3ba4-4a14-9bfc-fe5f4bd7ac5b",
+        "group_sic_code_ext": "874201",
+        "disp_lat": 40.567149,
+        "lat": 40.567149,
+        "disp_lng": -75.622408
+      }
+    },
+    {
+      "resultNumber": 4,
+      "distance": 0,
+      "sourceName": "mqap.ntpois",
+      "name": "Home Sewing Center",
+      "shapePoints": [
+        40.578242,
+        -75.476315
+      ],
+      "distanceUnit": "m",
+      "key": "284411d9-57f8-4b8d-86b7-319de4826dbc",
+      "fields": {
+        "phone": "6107972107",
+        "side_of_street": "R",
+        "group_sic_code": "572218",
+        "state": "PA",
+        "lng": -75.476315,
+        "group_sic_code_name": "Sewing Machines-Household",
+        "city": "Allentown",
+        "country": "US",
+        "group_sic_code_name_ext": "Sewing Machines-Household::Sewing Machines-Repairing",
+        "id": "273492671",
+        "mqap_geography": {
+          "latLng": {
+            "lng": -75.476315,
+            "lat": 40.578242
+          }
+        },
+        "address": "1901 S 12th St",
+        "postal_code": "18103",
+        "name": "Home Sewing Center",
+        "mqap_id": "284411d9-57f8-4b8d-86b7-319de4826dbc",
+        "group_sic_code_ext": "572218::769925",
+        "disp_lat": 40.578242,
+        "lat": 40.578242,
+        "disp_lng": -75.476315
+      }
+    }
+  ],
+  "resultsCount": 4,
+  "hostedData": [
+    {
+      "tableName": "mqap.ntpois",
+      "extraCriteria": "",
+      "columnNames": []
+    }
+  ],
+  "totalPages": 1,
+  "info": {
+    "statusCode": 0,
+    "copyright": {
+      "text": "© 2018 MapQuest, Inc.",
+      "imageUrl": "http://api.mqcdn.com/res/mqlogo.gif",
+      "imageAltText": "© 2018 MapQuest, Inc."
+    },
+    "messages": []
+  },
+  "options": {
+    "kmlStyleUrl": "http://www.search.mapquestapi.com/kml-default.kml",
+    "shapeFormat": "raw",
+    "ambiguities": true,
+    "pageSize": 4,
+    "currentPage": 1,
+    "units": "m",
+    "maxMatches": 4
+  }
+}
